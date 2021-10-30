@@ -44,7 +44,7 @@ https://github.com/nrj/heroku-buildpack-imagemagick-webp
 ## Clone Repo & Installation dependencies
 ```bash
 🦄 git clone https://github.com/XTG-BRUTAL/AB-BOT-69.git
-🦄 cd Doge-Bot
+🦄 cd AB-BOT-69
 🦄 npm start
 ```
 ## For Termux
