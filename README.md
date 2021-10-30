@@ -82,4 +82,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Brutal`](https://github.com/DGXeon)
+* [`Brutal`](https://github.com/XTG-BRUTAL)
