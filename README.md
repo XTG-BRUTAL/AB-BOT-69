@@ -43,7 +43,7 @@ https://github.com/nrj/heroku-buildpack-imagemagick-webp
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/Xeon-Self-BOT.git
+🦄 git clone https://github.com/XTG-BRUTAL/AB-BOT-69.git
 🦄 cd Doge-Bot
 🦄 npm start
 ```
